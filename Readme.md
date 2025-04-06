@@ -4,7 +4,7 @@
 
  ```bash
 git clone https://github.com/FinTech-LSI2/e-bank.git
-git checkout -b origin/ayman
+git checkout -b origin/ayman 
 ```
 
 ###  step  1 : dockerize the project
